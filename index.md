@@ -1,4 +1,15 @@
-<h1>This is my chnages </h1>
-<h2>It has been a great expeirnece so far</h2>
 
+<h1>These are my changes</h1>
+<h2>It has been a great experience</h2>
+<h6>I love it</h6>
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
